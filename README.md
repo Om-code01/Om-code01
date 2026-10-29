@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**Om-code01/Om-code01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Om, a developer from India.
 
-Here are some ideas to get you started:
+I love building web applications and turning ideas into real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is React, JavaScript, Node.js, Python, and MongoDB.
+
+I'm currently exploring AI and backend development.
+
+My favorite project is **Evelyn**, a personal AI assistant that won 1st place at IDEAS 2K25.
+
+**Fun Facts:**
+- I love experimenting with new technologies.
+- I'm passionate about AI and web development.
+- I enjoy building things that solve real problems.
